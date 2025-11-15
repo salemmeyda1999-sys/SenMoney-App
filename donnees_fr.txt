@@ -1,0 +1,16 @@
+titre=SenMoney
+labelNumero=Choisissez votre numéro :
+btnCode=#221#
+noteInfo=Sélectionnez un numéro puis cliquez sur #221# pour ouvrir le menu.
+menuPrompt=----- MENU SENMONEY -----\nTaper le numéro du service choisi :\n1. Solde de mon compte\n2. Transfert d'argent\n3. Paiement de facture\n4. Options\n\nEntrez le numéro du service choisi :
+enterCode=Entrez votre code secret :
+codeIncorrect=Code incorrect !
+enterDest=Entrez le numéro du destinataire :
+numNotFound=Numéro destinataire non trouvé !
+enterAmount=Entrez le montant à transférer :
+invalidAmount=Montant invalide !
+insufficientFunds=Solde insuffisant !
+transferSuccess=Transfert réussi ! Nouveau solde : 
+backToMenuConfirm=Voulez-vous retourner au menu principal ?
+goodbye=Au revoir 
+errorLoadingLang=Erreur lors du chargement du fichier de langue.

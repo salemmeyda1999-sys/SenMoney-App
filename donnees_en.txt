@@ -1,0 +1,16 @@
+titre=SenMoney
+labelNumero=Choose your number:
+btnCode=#221#
+noteInfo=Select a number then click #221# to open the menu.
+menuPrompt=----- SENMONEY MENU -----\nEnter the service number:\n1. Account balance\n2. Money transfer\n3. Bill payment\n4. Options\n\nEnter your choice:
+enterCode=Enter your secret code:
+codeIncorrect=Wrong code!
+enterDest=Enter the recipient's number:
+numNotFound=Recipient not found!
+enterAmount=Enter the amount to transfer:
+invalidAmount=Invalid amount!
+insufficientFunds=Insufficient balance!
+transferSuccess=Transfer successful! New balance: 
+backToMenuConfirm=Do you want to return to the main menu?
+goodbye=Goodbye 
+errorLoadingLang=Error while loading language file.

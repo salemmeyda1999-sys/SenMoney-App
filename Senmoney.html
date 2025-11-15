@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>SenMoney</title>
+  
+   <link rel="stylesheet" href="Styles.css">
+  <!-- Chargement jQuery (par CDN, c'est plus sûr si tu n'as pas le dossier jquery) -->
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1 id="titre">SenMoney</h1>
+
+    <label id="labelNumero" for="numSelect">Choisissez votre numéro :</label>
+    <select id="numSelect"></select><br>
+
+    <button id="btnCode">#221#</button><br>
+
+    
+    
+    <select id="langSelect">
+      <!-- IMPORTANT : Valeurs en minuscules pour bien matcher le chargement -->
+      <option value="donnees_fr">Français</option>
+      <option value="donnees_en">English</option>
+      <option value="donnees_wo">Wolof</option>
+    </select>
+  </div>
+
+
+
+  <!-- Script principal -->
+  <script src="Scripts.js"></script>
+</body>
+</html>

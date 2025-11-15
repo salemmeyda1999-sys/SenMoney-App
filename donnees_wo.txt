@@ -1,0 +1,17 @@
+titre=SenMoney
+labelNumero=Tannal sa numéro :
+btnCode=#221#
+noteInfo=Tannal numéro bu nekk te bësal #221# ngir ubbi menu bi.
+menuPrompt=----- MENU SENMONEY -----\nBindal limu sarwiis bi:\n1. Sa xaalis\n2. Jël xaalis\n3. Faturu payement\n4. Tànneef\n\nBindal limu sarwiis bi:
+enterCode=Bindal sa koodu suuf:
+codeIncorrect=Koodu bi baaxul!
+enterDest=Bindal numéro u kenn nga bëgg yónnee xaalis:
+numNotFound=Numéro bi jéggul!
+enterAmount=Bindal xaalis bi nga bëgg yónnee:
+invalidAmount=Xaalis bi baaxul!
+insufficientFunds=Xaalis bi nekk ci sa compte bi doyul!
+transferSuccess=Yónnee bi am na ngir njaxlaf! Sa xaalis mu nekk leegi mooy: 
+backToMenuConfirm=Ndax bëgg nga dellu ci menu bi?
+goodbye=Ba beneen yoon 
+errorLoadingLang=Njumte ci yëgle fichier u làkk bi.
+
